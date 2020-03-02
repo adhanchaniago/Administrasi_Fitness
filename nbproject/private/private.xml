@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/example04.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/models/m_administrasi_fitness.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/insert_transaksi.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/controllers/c_main.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/display_transaksi.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/display_jurnal_umum.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/insert_alat_latihan.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/display_pilih_akun.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/display_pilih_bulan_profit.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/assets/css/bootstrap.css</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/display_akun_by_month.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/display_profit_by_month.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/update_trainer.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/display_transaksi_by_month.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/display_jurnal_by_month.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/display_member.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/insert_member.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/display_buku_besar.php</file>
+            <file>file:/C:/xampp/htdocs/Administrasi_Fitness/application/views/insert_jadwal_latihan.php</file>
+        </group>
+    </open-files>
+</project-private>
